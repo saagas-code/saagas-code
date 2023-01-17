@@ -7,7 +7,7 @@
 ```
 
 ![Matheus GitHub Stats](https://github-readme-stats.vercel.app/api?username=saagas-code&theme=radical&layout=compact)
-![Most Used](https://github-readme-stats.vercel.app/api/top-langs/?username=saagas-code&layout=compact&langs_count=7&theme=codeSTACKr)
+![Most Used](https://github-readme-stats.vercel.app/api?username=saagas-code&theme=blue-green)
 
 
 
