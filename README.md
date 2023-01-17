@@ -2,7 +2,7 @@
 
 ```
 - 💎 Desenvolvedor Full-Stack
--  - Atualmente em busca de oportunidades
+-  :rocket: Atualmente em busca de oportunidades
 -  - Mesquita - RJ
 ```
 
