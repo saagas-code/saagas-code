@@ -6,7 +6,7 @@
 -  - Mesquita - RJ
 ```
 
-![Matheus GitHub Stats](https://github-readme-stats.vercel.app/api?username=saagas-code&theme=blue-green)
+![Matheus GitHub Stats](https://github-readme-stats.vercel.app/api?username=saagas-code&theme=radical&layout=compact)
 
 <!-- <div style="display: inline_block">
   <a href="https://github.com/saagas-code">
