@@ -9,7 +9,7 @@
 ![mario coding](https://i.imgur.com/1ZvVkDc.gif)
 
 <div style="display: inline_block">
-   
+   <img width="45%" height="180em" src="https://github-readme-stats.vercel.app/api?username=saagas-code&theme=radical&layout=compact"/>
    <img width="45%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saagas-code&theme=radical&layout=compact"/>
    
 </div>
