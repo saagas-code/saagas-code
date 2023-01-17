@@ -8,8 +8,10 @@
 
 ![mario coding](https://i.imgur.com/1ZvVkDc.gif)
 
-![Matheus GitHub Stats](https://github-readme-stats.vercel.app/api?username=saagas-code&theme=radical&layout=compact)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=saagas-code&theme=radical&layout=compact)
+<div style="display: inline_block">
+   ![Matheus GitHub Stats](https://github-readme-stats.vercel.app/api?username=saagas-code&theme=radical&layout=compact)
+   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=saagas-code&theme=radical&layout=compact)
+</div>
 
 ##
 
