@@ -2,8 +2,8 @@
 
 ```
 - 💎 Desenvolvedor Full-Stack
--  :rocket: Atualmente em busca de oportunidades
--  - Mesquita - RJ
+- 🚀 Atualmente em busca de oportunidades
+- 🏠 Mesquita - RJ
 ```
 
 ![mario coding](https://i.imgur.com/1ZvVkDc.gif)
