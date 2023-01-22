@@ -4,10 +4,9 @@
 - 💎 Desenvolvedor Full-Stack
 - 🚀 Atualmente em busca de oportunidades
 - 🏠 Mesquita - RJ
-- 🏭 Cursando Ciências da Computacâo na Universidade Estácio de Sá - 2º período
-- ⚡ 
+- 🏭 Cursando Ciências da Computacâo na Universidade Estácio de Sá - 2º período 
 ```
-[Portfólio](https://portfolio-saagas-code.vercel.app/)
+- ⚡ [Portfólio](https://portfolio-saagas-code.vercel.app/)
 ##
 
 ![mario coding](https://i.imgur.com/1ZvVkDc.gif)
