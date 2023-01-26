@@ -9,6 +9,14 @@
 - ⚡ [Portfólio](https://portfolio-saagas-code.vercel.app/)
 ##
 
+<hr>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,react,next,tailwind,nodejs,nest,express,prisma,mongo,mysql,postgres,jest" />
+  </a>
+</p>
+
 ![mario coding](https://i.imgur.com/1ZvVkDc.gif)
 
 ##
